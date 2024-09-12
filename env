@@ -30,8 +30,8 @@ CI_ENVIRONMENT = development
 # DATABASE
 #--------------------------------------------------------------------
 
-database.default.hostname = toko_buku
-database.default.database = ci4
+database.default.hostname = localhost
+database.default.database = toko_buku
 database.default.username = root
 database.default.password = 
 database.default.DBDriver = MySQLi
